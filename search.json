@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-hello-world",
+    "section": "",
+    "text": "This is a simple example of nbdev functionality and workflow."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-hello-world",
+    "section": "Install",
+    "text": "Install\npip install nbdev_hello_world"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-hello-world",
+    "section": "How to use",
+    "text": "How to use\nNothing to see here!"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "Hello world",
+    "section": "",
+    "text": "The autoreload extension is already loaded. To reload it, use:\n  %reload_ext autoreload\n\n\n\nsource\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\ntest_eq(say_hello(\"Hamel\"), \"Hello Hamel!\")\n\n\nsource\n\n\nHelloSayer\n\n HelloSayer (to)\n\nSay hello to to using say_hello\n\nsource\n\n\nHelloSayer.say\n\n HelloSayer.say ()\n\nDo the saying\n\no = HelloSayer(\"Alexis\")\no.say()\n\n'Hello Alexis!'\n\n\n\nsource\n\n\nfoo\n\n foo ()"
+  }
+]
